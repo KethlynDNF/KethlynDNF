@@ -27,7 +27,7 @@ Olá! Me chamo Kethlyn! Sou Técnica em Desenvolvimento, busco me profissionaliz
 
 ____________________________________________________________________________________________________________________________________________________________________
 
-### 🤖 Minhas linguagens atuais
+### 🤖 Minhas Linguagens e Ferramentas atuais
 <img src="https://skillicons.dev/icons?i=git,python,vscode" width="120" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=100&section=footer" />
