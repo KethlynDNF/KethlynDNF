@@ -1,8 +1,8 @@
 <div align="center">
 
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-# 👩‍💻 Kethlyn do Nascimento - KethlynDNF
+# 👩🏽‍💻 Kethlyn do Nascimento - KethlynDNF
 
 *Técnica em Desenvolvimento*
 
@@ -10,13 +10,12 @@
 
 ### hey there 👋
 
-Olá! Me chamo Kethlyn! Sou Técnica em Desenvolvimento, busco me profissionalizar nas minhas áreas de interesse.
+Olá! Me chamo Kethlyn! Sou Técnica em Desenvolvimento, busco me profissionalizar nas minhas áreas de interesse que incluem Análise de dados e Inteligência Artificial (IA).
 
 Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria contínua na minha trajetória.
 
 ### 🛠️ Language and tools
 
-[Python](https://skillicons.dev/icons?i=python)
-[VSCode](https://skillicons.dev/icons?i=vscode)
+<img src="https://skillicons.dev/icons?i=git,python,vscode" />
 
-[Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=100&section=footer" />
