@@ -10,8 +10,10 @@ ________________________________________________________________________________
 🎓 **Técnico em Desenvolvimento de Sistemas | 17 anos | Piracicaba-SP**
 📚 **2º ano do Ensino Médio - E.E. Dr. Jorge Coury**
 
+
 💻 **Em busca da minha primeira oportunidade na área de tecnologia!**
 Estou em constante evolução, buscando aprimorar meus conhecimentos em programação, desenvolvimento de sistemas e novas tecnologias a cada dia.
+
 
 🚀 **O que estou estudando atualmente:**
 * Desenvolvimento Web / Sistemas
@@ -22,7 +24,7 @@ Estou em constante evolução, buscando aprimorar meus conhecimentos em programa
 
 _________________________________________________________________________________________________________________________________________________
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias atuais
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,python" height="45" alt="linguagens" />
