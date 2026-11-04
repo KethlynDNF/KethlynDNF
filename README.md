@@ -6,16 +6,19 @@
 
 *Técnica em Desenvolvimento*
 
+____________________________________________________________________________________________________________________________________________________________________
+
 </div>
 
 ### hey there 👋
 
-Olá! Me chamo Kethlyn! Sou Técnica em Desenvolvimento, busco me profissionalizar nas minhas áreas de interesse que incluem Análise de dados e Inteligência Artificial (IA).
+Olá! Me chamo Kethlyn! Sou Técnica em Desenvolvimento, busco me profissionalizar nas minhas áreas de interesse.
 
 Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria contínua na minha trajetória.
 
-### 🛠️ Language and tools
+____________________________________________________________________________________________________________________________________________________________________
 
+### 🤖 Minhas linguagens atuais
 <img src="https://skillicons.dev/icons?i=git,python,vscode" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=100&section=footer" />
