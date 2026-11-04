@@ -23,9 +23,9 @@ ________________________________________________________________________________
 
 Olá! Me chamo Kethlyn! Sou Técnica em Desenvolvimento, busco me profissionalizar nas minhas áreas de interesse.
 
-🎯 Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria contínua na minha trajetória.
+🎯 Com esse perfil, tenho como objetivo de compartilhar meus projetos, registrar minha evolução e aplicar melhorias em minha trajetória.
 
-____________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 ### 🤖 Minhas Linguagens e Ferramentas atuais
 <img src="https://skillicons.dev/icons?i=git,python,vscode" width="120" />
