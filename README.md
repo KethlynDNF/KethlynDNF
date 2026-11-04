@@ -30,4 +30,4 @@ ________________________________________________________________________________
 ### 🤖 Minhas Linguagens e Ferramentas atuais
 <img src="https://skillicons.dev/icons?i=git,python,vscode" width="120" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=100&section=footer" />
