@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 </div>
 
-### hey there 👋
+### hey there 👋🏽
 
 🎓 *Técnico em Desenvolvimento de Sistemas | 17 anos | Piracicaba-SP*
 📚 *2º ano do Ensino Médio - E.E. Dr. Jorge Coury*
