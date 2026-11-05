@@ -4,7 +4,7 @@
 
 # 👩🏽‍💻 Kethlyn do Nascimento - KethlynDNF
 
-*Técnica em Desenvolvimento*
+*Desenvolvedora em Desenvolvimento!*
 
 
 ___________________________________________________________________________________________________________________________________________________________________
@@ -27,7 +27,21 @@ Olá! Me chamo Kethlyn! Sou Técnica em Desenvolvimento, busco me profissionaliz
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-### 🤖 Minhas Linguagens e Ferramentas atuais
-<img src="https://skillicons.dev/icons?i=git,python,vscode" width="120" />
+### Linguagens e Ferramentas atuais
+<img src="https://skillicons.dev/icons?i=git,python,vscode,github" />
+
+### Em aprendizado
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+___________________________________________________________________________________________________________________________________________________________________
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KethlynDNF/KethlynDNF/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KethlynDNF/KethlynDNF/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KethlynDNF/KethlynDNF/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=100&section=footer" />
+
